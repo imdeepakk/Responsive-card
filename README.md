@@ -2,6 +2,8 @@
 
 This is a simple and responsive **Profile Card UI** that showcases a clean and modern design, built using **HTML** and **CSS**. It’s perfect for beginners looking to practice **front-end development** and **responsive design**.
 
+You can check out the live demo here: [Responsive Card Demo](https://imdeepakk.github.io/Responsive-card/)
+
 ## Features:
 - A circular profile image at the top with a background.
 - Links to social media profiles like **LinkedIn**, **Instagram**, **GitHub**, and **Twitter**.
